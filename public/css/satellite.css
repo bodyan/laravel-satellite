@@ -1,0 +1,25 @@
+        .satellite {
+            background-color: #bde293;
+            font-size: 1.0em;
+            text-align: center;
+        }
+        .transponder {
+            background-color: #93d2e2;
+            text-align: center;
+            font-size: 0.9em;
+        }
+        .col, .col-1, .col-2, .col-3, .col-sm, .col-sm-1, .col-sm-2{
+            text-align: center;
+        }
+        .biss {
+            color: red;
+        }
+        .channel {
+            border-bottom: 1px solid #e8e8e8;
+            font-size: 0.85em
+        }
+        .radio {
+            border-bottom: 1px solid #e8e8e8;
+            font-size: 0.75em;
+            font-style: italic;
+        }
